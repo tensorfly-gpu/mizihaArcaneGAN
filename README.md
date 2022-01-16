@@ -6,3 +6,5 @@
 模型下载在这里
 链接：https://pan.baidu.com/s/12n4gJAt69NXjpxUBk4_LEQ
 提取码：agan
+
+输入图片必须是三通道的jpg图，不要是png图片，不然会报错
